@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 # Poll-App
 It's my first Flutter application with firebase authentication service and Firebase Database integrated.
+=======
+# multiplepolls
+
+A new Flutter application.
+>>>>>>> 1dabac9... First Commit
 
 It is basically a polling app.
 User is allowed to change his choice.
